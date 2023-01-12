@@ -1,5 +1,5 @@
 title = "Le blog d'Alexia"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://alexialeger.github.io/labveilletech/"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
