@@ -1,13 +1,18 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "La grande halle"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapitre I: La grande halle"
+description: "Description des acteurs de ma veille"
+featured_image: "/images/article1.jpg"
+title: "Système d'écoute mis en place"
 ---
 
-Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d'attente. L'avantage de le mettre en latin est que l'opérateur sait au premier coup d'oeil que la page contenant ces lignes n'est pas valide, et surtout l'attention du client n'est pas dérangée par le contenu, il demeure concentré seulement sur l'aspect graphique.
+Pour tout ce qui est formation j’ai choisi 3 sites web : Hubspot, openclassroom, Meta Blueprint. Je les ai choisi car c’est des ressources gratuites qui permettent de se former sur différents sujets et notamment mon sujet de prédiléction : la communication sur les réseaux sociaux. Ces trois ressources sont également gratuites et reconnue dans la communauté du digital.
 
-Ce texte a pour autre avantage d'utiliser des mots de longueur variable, essayant de simuler une occupation normale. La méthode simpliste consistant à copier-coller un court texte plusieurs fois (« ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ») a l'inconvénient de ne pas permettre une juste appréciation typographique du résultat final.
+En ce qui concerne Meta Blueprint plus particulièrement, c’est directement Meta qui met à disposition des formations sur Facebook, Instagram, Messenger et Whatsapp.
 
-Il circule des centaines de versions différentes du Lorem ipsum, mais ce texte aurait originellement été tiré de l'ouvrage de Cicéron, De Finibus Bonorum et Malorum (Liber Primus, 32), texte populaire à cette époque, dont l'une des premières phrases est : « Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... » (« Il n'existe personne qui aime la souffrance pour elle-même, ni qui la recherche ni qui la veuille pour ce qu'elle est... »).
+Ensuite, j’ai choisi de nouveau 3 sites web pour toutes les nouveautés du domaine : ComK, Audrey Tips, J’ai un pote dans la comm’. Ces trois sites proposent également des newsletters qui regroupent les informations importantes de la semaine.
+
+Toujours dans le même thème mais sous un autre format, j’ai choisi deux podcast sur le marketing : Le podcast du markeitng, marketing square. Ces deux prodcastes traitent de sujets plus généraux de la communication.
+
+Pour les personnalités, j’ai choisi : Anna Grognard, Laurence Barbey, Christophe Schranz. Ces trois personnes sont sur LinkedIn et partage un certain nombre de conseils et de bonne pratique avec leurs audiences.
+
+Pour les events, le collectif Woman in Digital en prévoit un certain nombre en Suisse romande. Ce groupe est composé majoritairement de femme qui oeuvre dans le digital (comme son nom l’indique). Ceci permet d’avoir de nouvelles compétences et d’apprendre des choses mais également de faire du networking et rencontrer de nouvelles personnes qui sont dans le même domaine.
