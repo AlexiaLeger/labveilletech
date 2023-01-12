@@ -1,8 +1,7 @@
 ---
-date: 2023-01-12T10:58:08-04:00
+date: 2027-01-12T10:58:08-04:00
 description: "Description des acteurs de ma veille"
 featured_image: "/images/article1.jpg"
-tags: ["article"]
 title: "Système d'écoute mis en place"
 ---
 
