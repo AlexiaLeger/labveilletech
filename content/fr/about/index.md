@@ -6,4 +6,14 @@ menu:
   main:
     weight: 1
 ---
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Le domaine de ce blog est la communication et plus particulièrement la communication sur les réseaux sociaux.
+
+Ce domaine comprend également la création des contenus (texte, image, vidéo), l’analyse des résultats, la gestion des réseaux sociaux, la publication et les automatisations des publications, la retouche des photos ou encore la stratégie et le marketing.
+
+Ce sujet est un sujet qui me passione car j’ai déjà pas mal de connaissance sur les réseaux sociaux, leurs codes et leurs tendances. En effet, ce sont des outils que je les utilise tous les jours.
+
+La communcation a commencé à me passionner lors de mes études à la HEIG-VD et continue de me passionner de plus en plus. J’ai toujours envie d’en apprendre plus et de mieux comprendre ce monde et les domaines liés.
+
+J’aime également beaucoup tout ce qui est stratégie et analyse des résultats. J’aime voir que les choses fonctionnent et donnent des résultats.
+
+Mon job parfait serait de réaliser la communication interne et externe d’une petite ou moyenne entreprise qui se soucie des thématiques actuelles.

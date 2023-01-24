@@ -17,4 +17,4 @@ Pour les personnalités, j’ai choisi : Anna Grognard, Laurence Barbey, Christo
 
 Pour les events, le collectif Woman in Digital en prévoit un certain nombre en Suisse romande. Ce groupe est composé majoritairement de femme qui oeuvre dans le digital (comme son nom l’indique). Ceci permet d’avoir de nouvelles compétences et d’apprendre des choses mais également de faire du networking et rencontrer de nouvelles personnes qui sont dans le même domaine.
 
-Afin de regrouper les différents articles, posts, podcasts de ma veille j’ai récupéré un template notion afin de les trier, les classer et les garder. Ceci me permet de bien gérer les différents liens de ma veille et de pouvoir y revenir par la suite.
+Afin de regrouper les différents articles, posts, podcasts de ma veille j’ai récupéré un template notion afin de les trier, les classer et les garder. Ceci me permet de bien gérer les différents liens de ma veille et de pouvoir y revenir par la suite. [Template Notion](https://getmonospace.gumroad.com/l/qGhaI?ref=producthunt)
