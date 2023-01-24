@@ -1,7 +1,7 @@
 ---
 date: 2017-01-12T10:58:08-04:00
 description: "Conseils et méthodes pour améliorer le SEO"
-featured_image: "/images/article1.jpg"
+featured_image: "/images/article2.jpg"
 title: "Le SEO sur Instagram"
 ---
 

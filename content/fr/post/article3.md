@@ -1,7 +1,7 @@
 ---
 date: 2017-01-12T10:58:08-04:00
 description: "Explications des tendances à venir"
-featured_image: "/images/article1.jpg"
+featured_image: "/images/article3.jpg"
 title: "5 tendances pour les réseaux sociaux en 2023"
 ---
 

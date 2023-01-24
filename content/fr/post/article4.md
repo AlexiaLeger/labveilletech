@@ -1,7 +1,7 @@
 ---
 date: 2017-01-12T10:58:08-04:00
 description: "Adam Mosseri annonce les nouveautés Instagram 2023"
-featured_image: "/images/article1.jpg"
+featured_image: "/images/article4.jpg"
 title: "Nouveautés instagram 2023"
 ---
 
