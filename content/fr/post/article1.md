@@ -1,6 +1,6 @@
 ---
-date: 2027-01-12T10:58:08-04:00
-description: "Description des acteurs de ma veille"
+date: 2017-01-12T10:58:08-04:00
+description: "Les acteurs de ma veille"
 featured_image: "/images/article1.jpg"
 title: "Système d'écoute mis en place"
 ---
@@ -16,3 +16,5 @@ Toujours dans le même thème mais sous un autre format, j’ai choisi deux podc
 Pour les personnalités, j’ai choisi : Anna Grognard, Laurence Barbey, Christophe Schranz. Ces trois personnes sont sur LinkedIn et partage un certain nombre de conseils et de bonne pratique avec leurs audiences.
 
 Pour les events, le collectif Woman in Digital en prévoit un certain nombre en Suisse romande. Ce groupe est composé majoritairement de femme qui oeuvre dans le digital (comme son nom l’indique). Ceci permet d’avoir de nouvelles compétences et d’apprendre des choses mais également de faire du networking et rencontrer de nouvelles personnes qui sont dans le même domaine.
+
+Afin de regrouper les différents articles, posts, podcasts de ma veille j’ai récupéré un template notion afin de les trier, les classer et les garder. Ceci me permet de bien gérer les différents liens de ma veille et de pouvoir y revenir par la suite.
