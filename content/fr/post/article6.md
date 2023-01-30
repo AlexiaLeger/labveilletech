@@ -1,7 +1,7 @@
 ---
 date: 2017-01-12T10:58:08-04:00
 description: "Expérimentation de l'outil VistaCreate"
-featured_image: "/images/article1.jpg"
+featured_image: "/images/article6.jpg"
 title: "VistaCreate vs Canva"
 ---
 
